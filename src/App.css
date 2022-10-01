@@ -2,7 +2,11 @@
   text-align: center;
 }
 h1 {
-  margin: 30px;
+  margin: 30px 20px 10px 20px;
+}
+p {
+  margin-bottom: 20px;
+  font-size: 18px;
 }
 .book {
   font-size: 46px;
