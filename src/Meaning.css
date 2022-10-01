@@ -1,0 +1,19 @@
+h4 {
+   font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  padding: 27px;
+  opacity: 0.9;
+}
+
+.Meaning p {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+}
+.Meaning .example {
+  font-family: "Joan", serif;
+  font-style: italic;
+  font-weight: 500;
+  padding-top: 20px;
+}

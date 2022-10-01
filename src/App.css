@@ -2,11 +2,13 @@
   text-align: center;
 }
 h1 {
-  margin: 30px 20px 10px 20px;
+  margin: 40px 20px 10px 20px;
+  font-family: "Montserrat", sans-serif;
 }
 p {
   margin-bottom: 20px;
   font-size: 18px;
+  font-family: "Montserrat", sans-serif;
 }
 .book {
   font-size: 46px;
