@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="Footer">
       Coded by Marti Medina, open-source on{" "}
       <a
-        href="https://github.com/JenLynX/dictionary-app"
+        href="https://github.com/maritssam/dictionary-app"
         target="_blank"
         rel="noreferrer"
       >
